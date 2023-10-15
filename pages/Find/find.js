@@ -297,7 +297,7 @@ export default function Find() {
                 <div class="filter-button-container-find">
                     {showButton ? (
                         <div class="filter-button-find" onClick={toggleDisplay}>
-                            Add Filter's
+                            Add Filter&apos;s
                         </div>
                     ) : (
                         <div className="filter-panel-parent-find">
